@@ -1,0 +1,14 @@
+#table_kelola_pengguna thead th {
+    background-color: #227066; /* contoh: biru Bootstrap */
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#table_kelola_pengguna_wrapper .dataTables_paginate {
+    margin-top: 20px;
+}
+
+#table_kelola_pengguna_wrapper .dataTables_info {
+    margin-top: 20px;
+}
